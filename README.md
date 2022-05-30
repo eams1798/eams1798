@@ -25,7 +25,7 @@ I have knowledge in:
 <br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estefanomisme&layout=compact&theme=vue&langs_count=6" alt="My languages"/>
 </div>
-<br><br>
+<br>
 Although I am focusing on web development, other branches of technology such as Blockchain, virtual reality, video game development or Artificial Intelligence are also of interest to me, so I could integrate some of these topics into my learning at the future.
 
 ## My other contacts
