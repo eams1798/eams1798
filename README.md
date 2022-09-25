@@ -20,10 +20,10 @@ I have knowledge in:
 - System administration: Bash
 
 <div style="display: flex;width: 100vw; flex-wrap: wrap; justify-content:center;gap: 25px;">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=estefanomisme&show_icons=true" alt="My github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=eams1798&show_icons=true" alt="My github stats" />
 <br/>
 <br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estefanomisme&layout=compact&theme=vue&langs_count=6" alt="My languages"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eams1798&layout=compact&theme=vue&langs_count=6" alt="My languages"/>
 </div>
 <br>
 Although I am focusing on web development, other branches of technology such as Blockchain, virtual reality, video game development or Artificial Intelligence are also of interest to me, so I could integrate some of these topics into my learning at the future.
