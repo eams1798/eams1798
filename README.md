@@ -8,11 +8,9 @@ Software engineer dedicated to full stack web development. I am specialized in t
 </div>
 <br>
 
-### Contact me in:
-<p align='center'>
+### Contact me:
 <a href="https://misotideas.com/" target="_blank"><img src="https://cdn-icons-png.freepik.com/512/686/686165.png" alt="portfolio" width="50" height="60"><a/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/eams1798/" target="_blank"><img src="./icons/linkedin.svg" alt="linkedin" width="50" height="60"><a/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://medium.com/@eams" target="_blank"><img src="./icons/medium.png" alt="medium" width="50" height="60"><a/>
-</p>
