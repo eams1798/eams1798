@@ -8,11 +8,9 @@ Software engineer dedicated to full stack web development. I am specialized in t
 </div>
 <br>
 
-## My other contacts
+### Contact me in:
 <p align='center'>
-<a href="https://www.facebook.com/alessi.ale1/" target="_blank"><img src="./icons/facebook.png" alt="facebook" width="50" height="60"><a/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/misot_ideas" target="_blank"><img src="./icons/twitter.svg" alt="twitter" width="50" height="60"><a/>
+<a href="https://misotideas.com/" target="_blank"><img src="[./icons/twitter.svg](https://cdn-icons-png.freepik.com/512/686/686165.png)" alt="portfolio" width="50" height="60"><a/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/eams1798/" target="_blank"><img src="./icons/linkedin.svg" alt="linkedin" width="50" height="60"><a/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
