@@ -1,23 +1,4 @@
-# Who I am?
-
-Hello world, I'm Estéfano Misme, full-stack web developer at Holberton School.
-
-I characterize myself as a calm, respectful and serious person when it comes to teamwork. What I have learned in recent years has helped me to carry out personal projects born of my curiosity about technology.
-
-I have knowledge in:
-- Front-end:
-  * HTML/CSS/Javascript
-  * JQuery
-  * Bootstrap
-  * SASS/SCSS
-- Back-end:
-  * Python3
-  * Flask
-  * NodeJS
-  * MySQL
-  * SQLAlchemy ORM for Python
-  * C, C++
-- System administration: Bash
+Software engineer dedicated to full stack web development. I am specialized in the MERN stack, but I also like to complement my knowledge with other branches.
 
 <div style="display: flex;width: 100vw; flex-wrap: wrap; justify-content:center;gap: 25px;">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=eams1798&show_icons=true" alt="My github stats" />
