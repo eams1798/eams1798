@@ -1,8 +1,6 @@
 Software engineer dedicated to full stack web development. I am specialized in the MERN stack, but I also like to complement my knowledge with other branches.
 
 <div style="display: flex;width: 100vw; flex-wrap: wrap; justify-content:center;gap: 25px;">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=eams1798&show_icons=true" alt="My github stats" />
-<br/>
 <br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eams1798&layout=compact&theme=vue&langs_count=6" alt="My languages"/>
 </div>
